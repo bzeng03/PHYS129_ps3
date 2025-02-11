@@ -1,0 +1,25 @@
+Moments of the Multivariate Normal Distribution
+
+Numerical Moments:
+E[v1]: 0.091730
+E[v2]: 0.103960
+E[v3]: 0.431657
+E[v1 v2]: -0.125113
+E[v2 v3]: -0.104486
+E[v1 v3]: 0.055768
+E[v1^2 v2]: 0.009406
+E[v2 v3^2]: -0.085691
+E[v1^2 v2^2]: 0.144619
+E[v2^2 v3^2]: 0.167136
+
+Analytical Moments:
+E[v1]: 0.089552
+E[v2]: 0.104478
+E[v3]: 0.432836
+E[v1 v2]: -0.124972
+E[v2 v3]: -0.104032
+E[v1 v3]: 0.053687
+E[v1^2 v2]: (Not computed analytically)
+E[v2 v3^2]: (Not computed analytically)
+E[v1^2 v2^2]: (Not computed analytically)
+E[v2^2 v3^2]: (Not computed analytically)

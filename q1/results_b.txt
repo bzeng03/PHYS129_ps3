@@ -1,0 +1,5 @@
+Results for A1:
+Numerical Result: 4.275823659011515
+Analytical Result: 4.2758236590115155
+Relative Error: 0.000000
+
